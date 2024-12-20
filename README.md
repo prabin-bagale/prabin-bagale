@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabin-bagale&label=Profile%20views&color=0e75b6&style=flat" alt="prabin-bagale" /> </p>
 
-- 🔭 I’m currently working on **Full stack E-commerce**
+- 🔭 I’m currently working on **Full stack E-commerce (MERN)**
 
-- 🌱 I’m currently learning **MERN , React Native**
+- 🌱 I’m currently learning ** Next.js , React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prabin-bagale](https://github.com/prabin-bagale)
 
